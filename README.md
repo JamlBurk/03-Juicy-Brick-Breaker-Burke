@@ -1,8 +1,6 @@
-# Exercise-03d-Shaders
+# Project-03 Juicy-Brick-Breaker-Burke
 
-Exercise for MSCH-C220
-
-The final step adding "juicy" features to a simple brick-breaker game.
+Project for MSCH-C220
 
 ## To play
 
@@ -14,6 +12,9 @@ Created using [Godot 3.5.1](https://godotengine.org/download)
 
 Face sprites created by the author at Piskel.com
 
+Additions:
+
+
 ## References
  * [Juice it or lose it — a talk by Martin Jonasson & Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
  * [Puzzle Pack 2, provided by kenney.nl](https://kenney.nl/assets/puzzle-pack-2)
@@ -24,11 +25,12 @@ Face sprites created by the author at Piskel.com
  * Shaders:
 	 * [Fire Effect by Tsar333](https://godotshaders.com/shader/fire-effect/)
 	 * [Fireworks by Tsar333](https://godotshaders.com/shader/fireworks/)
-	 * [2D Procedural Water by flytrap](https://godotshaders.com/shader/perlin-procedural-water/)
+	 * [Spiral “domain mapping” byBF Penguin] (https://godotshaders.com/shader/spiral-domain-mapping/)
+	 * [Super Hex by AXSHADER] (https://godotshaders.com/shader/super-hex/)
 
 ## Future Development
+Fix bug of game layout displaying improerly apon resizing of window
 
-Power-ups, etc.
 
 ## Created by 
 
