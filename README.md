@@ -59,7 +59,7 @@ Face sprites created by the author at Piskel.com
 
 -Fix bug where sometimes the in-game shader dissapears for unknown reason
 
--Allow for transparency with the color shader i.e allow for a player to see in real time what colors they are changing their bricks too without having to leave the paus menu
+-Allow for transparency with the color shader i.e allow for a player to see in real time what colors they are changing their bricks too without having to leave the pause menu
 
 
 
