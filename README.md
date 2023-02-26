@@ -13,18 +13,31 @@ Created using [Godot 3.5.1](https://godotengine.org/download)
 Face sprites created by the author at Piskel.com
 
 -Added brick rotation upon being hit
+
 -Added "Color Changer' for bricks in "Pause Menu"
+
 -Added screenshake upon "On Fire" bar
+
 -Added infinite balls and prevention of losing life apon reaching "On Fire" status
+
 -Added custom "loss of life" sound bit
+
 -Added custom background track written originally by myself
+
 -Added main menu shader
+
 -Added in-game background shader
+
 -Added extra levels, 6 in total with an indication of the "final level"
+
 -Added customization for each level (how many bricks, points gained, momentum of ball, time alloted to complete level)
+
 -Added eyes to the paddle
+
 -Added a mouth to the paddle that reacts in a good way when hitting balls and in a bad way when losing a life
+
 -Added comet trail to the ball
+
 -Added various particles
 
 
