@@ -51,7 +51,7 @@ Face sprites created by the author at Piskel.com
  * Shaders:
 	 * [Fire Effect by Tsar333](https://godotshaders.com/shader/fire-effect/)
 	 * [Fireworks by Tsar333](https://godotshaders.com/shader/fireworks/)
-	 * [Spiral “domain mapping” byBF Penguin](https://godotshaders.com/shader/spiral-domain-mapping/)
+	 * [Spiral “domain mapping” by BF Penguin](https://godotshaders.com/shader/spiral-domain-mapping/)
 	 * [Super Hex by AXSHADER](https://godotshaders.com/shader/super-hex/)
 
 ## Future Development
